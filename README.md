@@ -46,7 +46,6 @@ python gui.py
 
 ## 截图
 
-（你可以自行添加程序运行截图）
 
 ## License
 
